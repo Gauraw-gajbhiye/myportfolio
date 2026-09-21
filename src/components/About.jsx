@@ -74,6 +74,18 @@ const About = () => {
                       {personalInfo.currentRole.company}
                     </p>
                   </div>
+                  <div>
+                    <p className="text-sm text-slate-500 mb-1">Previous Role</p>
+                    <p className="text-slate-200 font-medium">
+                      {personalInfo.previousRole.title}
+                    </p>
+                    <p className="text-sm text-slate-400">
+                      {personalInfo.previousRole.company}
+                    </p>
+                    <p className="text-sm text-slate-400">
+                      {personalInfo.previousRole.duration}
+                    </p>
+                  </div>
                 </div>
               </div>
             </div>

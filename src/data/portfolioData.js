@@ -86,7 +86,7 @@ export const projects = [
     {
         title: "TwinklingTreats",
         company: "Freelance Project | Bakery Business, Pune",
-        period: "Aug 2026 – Present",
+        period: "Jan 2026 – Present",
         description:
             "Full-stack cake ordering application with a Django REST Framework backend and React Native mobile application for a bakery business.",
         highlights: [

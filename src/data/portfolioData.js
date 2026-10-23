@@ -19,8 +19,8 @@ export const personalInfo = {
         duration: "Mar 2024 – Dec 2025",
     },
     contact: {
-        email: "gauravggajbhiye@gmail.com",
-        phone: "+91 8551082458",
+        email: "grvgajbhiye@gmail.com",
+        phone: "+91 7410518967",
         linkedin: "https://www.linkedin.com/in/gaurav-gajbhiye-software-developer/",
         github: "https://github.com/Gauraw-gajbhiye",
         portfolio: "https://portfolio-gauravs-projects-41116f57.vercel.app/"
@@ -89,6 +89,10 @@ export const projects = [
         period: "Jan 2026 – Present",
         description:
             "Full-stack cake ordering application with a Django REST Framework backend and React Native mobile application for a bakery business.",
+        Images: [
+
+        ],
+
         highlights: [
             "Built the application from backend to mobile client",
             "Implemented JWT registration, login and token refresh",
